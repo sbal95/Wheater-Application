@@ -1,0 +1,5 @@
+export const SET_CITY = "SET_CITY";
+export const SET_HOUR_DATA = "HOUR_DATA";
+export const FETCH_DATA_SUCCESS = "FETCH_DATA_SUCCESS";
+export const FETCH_DATA_REQUEST = "FETCH_DATA_REQUEST";
+export const FETCH_DATA_FAILURE = "FETCH_DATA_FAILURE";
